@@ -1,0 +1,46 @@
+
+/* -----------------------
+
+author: md sharif Ullah sarkar
+github: ..............
+fb: 
+Base ON: Bootstrap
+------------------------- */
+			
+
+/* ============== Global CSS  =============== */
+
+/* --- B-Serial ---- */
+.background-cover{
+	background-size: cover;
+}
+.background-center{
+	background-position: center;
+}
+
+/* --- C-Serial ---- */	
+
+/* --- Position Base ---- */
+.top-auto{
+	top:auto;
+}
+.bottom-auto{
+	top:auto;
+}
+.left-auto{
+	top:auto;
+}
+.right-auto{
+	top:auto;
+}
+				
+
+
+
+/* ============== Global Media CSS  =============== */
+
+
+
+
+
+

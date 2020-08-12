@@ -1,0 +1,123 @@
+
+/* -----------------------
+
+author:kamrul islam
+github:
+facebook:
+link:
+
+------------------------- */
+
+/* ============== global CSS  =============== */
+section{
+	padding-top:100px;
+	padding-bottom:75px;
+}
+.position-middle{
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%, -50%);
+}
+/* ============== Theme CSS  =============== */
+#home{
+	background-image:url("../images/exam1.jpg");
+	background-size:cover;
+	background-position:center;
+}
+#testimonial{
+	background-image:url("../images/bb5.jpg");
+	background-size:cover;
+	background-position:center;
+}
+#block1{
+	background-image:url("../images/bb5.jpg");
+	background-size:cover;
+	background-position:center;
+}
+#magazin{
+	background-color:#f5f5f5;
+	background-size:cover;
+	background-position:center;
+}
+#footer{
+	background-color:#1A1C28;
+	background-size:cover;
+	background-position:center;
+}
+.footer{
+	background-color:#222534;
+	background-size:cover;
+	background-position:center;
+}
+#latestnews{
+	background-color:#f5f5f5;
+	background-size:cover;
+	
+}
+#featurepost2{
+	background-color:#F9FAFC;
+	background-size:cover;
+}
+
+#social_icon a{
+	height:5rem;
+	width:5rem;
+	padding-top: 26px;
+}
+.hz{
+	border-top: 1px solid rgb(255, 255, 255);
+}
+.list-group-item {
+	border: 1px solid rgb(255, 255, 255)
+}
+.hr{
+	width: 80px;
+	border: 0;
+	border-top: 1px solid black;
+}
+#testimonial hr{
+	border-top: 1px solid white;
+}
+#testimonial h2{
+	color: white;
+}
+/* ====== footer part====*/
+#footer-icon3 i{
+	font-size: 10px;
+    color: white;
+    margin-right: 10px;
+}
+/* ============== testimonial part  =============== */
+#testimonial hr{
+	color:white;
+}
+
+#testimonial a i{
+	color:white;
+}
+#featurepost2 h2 i{
+	color:green;
+}
+/* ============== coremag part  =============== */
+#coremag h2{
+	width:136px;
+	height:136px;	
+}
+#coremag h2 i {
+    margin: 36px;
+    font-size: 43px;
+}
+/* ============== slider part  =============== */
+#main-slider .carousel-control-next, 
+#main-slider .carousel-control-prev{
+	width:50px;
+}
+
+/* ============== Theme Media CSS  =============== */
+
+@media(max-width: 477px){
+	#home h1{
+		font-size: 31px;
+	}
+}
